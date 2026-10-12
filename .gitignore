@@ -1,0 +1,8 @@
+node_modules/
+.codex-local-bin/
+.next/
+out/
+generated-assets/qa/
+coverage/
+*.tsbuildinfo
+.DS_Store
