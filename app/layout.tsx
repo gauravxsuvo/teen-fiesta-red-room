@@ -2,17 +2,15 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://teen-fiesta.goldenbow256.chatgpt.site"),
-  title: "Teen Fiesta — A Night in Red",
+  title: "Teen Fiesta — RED ROOM",
   description:
-    "Step into the Teen Fiesta × etc campaign: red light, close rooms, and moments made for the music.",
+    "Teen Fiesta RED ROOM returns to Mansion, Agra on 31 October 2026. Music by Fentatine.",
   applicationName: "Teen Fiesta",
   openGraph: {
-    title: "Teen Fiesta — A Night in Red",
+    title: "Teen Fiesta — RED ROOM",
     description:
-      "A campaign told in red light, close rooms, and moments made for the music.",
+      "31 October 2026 · 5–9 PM · Mansion, Agra · Music by Fentatine.",
     type: "website",
-    images: ["/media/hero-campaign.jpg"],
   },
 };
 
